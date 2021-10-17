@@ -19,10 +19,10 @@ Realizando bacharel em ciência da computação na Universidade Católica de Bra
 
 - 🌱 Atuamente estudando data science!
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="15">  Principais habilidades:
-  - 📊 Visualização de dados
-  - 🐍 Python
-  - 📈 Jupyter Notebook
-  - ☕ Java
+  - 📊 Visualização de dados;
+  - 🐍 Python;
+  - 📈 Jupyter Notebook;
+  - ☕ Java;
 - 📝 Amo aprender sobre metódos educacionais
 - 💬 Adoro conversar sobre qualquer coisa tecnologia
 - 🎉 Fato curioso: Eu amo física e canecas (sim, canecas) ❤️
