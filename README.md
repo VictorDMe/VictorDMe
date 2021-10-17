@@ -17,7 +17,7 @@ Realizando bacharel em ciência da computação na Universidade Católica de Bra
 ## ⚡️ Alguns fatos atuais sobre mim:
 <img width="490" height="270" src="https://www.utica.edu/student-blogs/wp-content/uploads/2014/03/dexter.gif" align=right>
 
-- 🌱 Atuamente estudante data science
+- 🌱 Atuamente estudando data science!
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Principais habilidades:
   - 📊 Visualização de dados
   - 🐍 Python
