@@ -24,7 +24,7 @@ Realizando bacharel em ciência da computação na Universidade Católica de Bra
   - 📈 Jupyter Notebook;
   - ☕ Java;
 - 📝 Amo aprender sobre metódos educacionais
-- 💬 Adoro conversar sobre qualquer coisa tecnologia
+- 💬 Adoro conversar sobre qualquer coisa voltada para tecnologia
 - 🎉 Fato curioso: Eu amo física e canecas (sim, canecas) ❤️
 
 
