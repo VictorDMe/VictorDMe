@@ -13,11 +13,11 @@
 
 ---
 
-- 🔭 Atualmente estout trabalhando no **SERPRO**
+- 🔭 Atualmente estou trabalhando no **SERPRO**
 
-- 🌱 Atualmente estou aprendendo **Angular, Pytorch e Scikit Learn**
+- 🌱 Estou aprendendo **Angular, Pytorch e Scikit Learn**
 
-- 📫 Entre em contato comigo **victormenezesna@gmail.com**
+- 📫 Me mande um e-mail em **victormenezesna@gmail.com**
 
 - ⚡ Fato engraçado **Fiz um curso de alimentos porque achei que era culinária :)**
 
