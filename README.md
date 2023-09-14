@@ -1,9 +1,19 @@
 <p align="center"> 
-  <img src="https://github.com/VictorDMe/VictorDMe/assets/67445953/3014a131-e9ea-4255-8bd7-3975d97d5eb8" alt="victor" width="700" height="300"/>
+  <img src="https://github.com/VictorDMe/VictorDMe/assets/67445953/3014a131-e9ea-4255-8bd7-3975d97d5eb8" alt="victor"/>
 </p>
 
 <h2 align="center">💻 Data Scientist 🎲</h2>
 <h3 align="center">📚 Computer Science Student at the Universidade Católica de Brasília 🎒</h3>
+
+---
+
+- 🔭 Currently working at **SERPRO - Serviço Federal de Processamento de Dados**
+
+- 🌱 Learning **Flask, Pytorch, and Scikit Learn**
+
+- 📫 Email me at **victormenezesna@gmail.com**
+
+- ⚡ Funny fact **I took a course in food because I thought it was cooking :)**
 
 ---
 
@@ -14,16 +24,6 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/victormenezesn)
 [![CodeWars Badge](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/VictorDMe)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vic_dmenezes/)
-
----
-
-- 🔭 Currently working at **SERPRO**
-
-- 🌱 Learning **Flask, Pytorch, and Scikit Learn**
-
-- 📫 Email me at **victormenezesna@gmail.com**
-
-- ⚡ Funny fact **I took a course in food because I thought it was cooking :)**
 
 ---
 
