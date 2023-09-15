@@ -7,6 +7,8 @@
 
 ---
 
+<img align="right" width="200" src="https://github.com/VictorDMe/VictorDMe/assets/67445953/a01097b1-87ce-4cb4-a4d6-fb4a7d585f65" />
+
 - 🔭 Currently working at **SERPRO - Serviço Federal de Processamento de Dados**
 
 - 🌱 Learning **Flask, Pytorch, and Scikit Learn**
