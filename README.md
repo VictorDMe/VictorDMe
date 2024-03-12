@@ -2,8 +2,8 @@
   <img src="https://github.com/VictorDMe/VictorDMe/assets/67445953/3014a131-e9ea-4255-8bd7-3975d97d5eb8" alt="victor"/>
 </p>
 
-<h2 align="center">💻 Data Scientist 🎲</h2>
-<h3 align="center">📚 Computer Science Student at the Universidade Católica de Brasília 🎒</h3>
+<h2 align="center">💻 Quality Assurance 🎲</h2>
+<h3 align="center">📚 Computer Science Student at the Centro Universitário Newton Paiva 🎒</h3>
 
 ---
 
@@ -11,7 +11,7 @@
 
 - 🔭 Currently working at **SERPRO - Serviço Federal de Processamento de Dados**
 
-- 🌱 Learning **Flask, Pytorch, and Scikit Learn**
+- 🌱 Learning **JMeter**
 
 - 📫 Email me at **victormenezesna@gmail.com**
 
