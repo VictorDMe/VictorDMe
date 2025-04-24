@@ -3,7 +3,7 @@
 </p>
 
 <h2 align="center">💻 Quality Assurance 🎲</h2>
-<h3 align="center">📚 Computer Science Student at the Centro Universitário Newton Paiva 🎒</h3>
+<h3 align="center">📚 Computer Science Student 🎒</h3>
 
 ---
 
